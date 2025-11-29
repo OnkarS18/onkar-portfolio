@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": "project-1",
+      "name": "Employee Salary Prediction using AI",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/OnkarS18",
+      "description": "🤖 ML system predicting employee salaries based on experience, role, education, and location using Scikit-learn models deployed on Streamlit.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Streamlit",
+          "iconifyClass": "simple-icons:streamlit"
+        },
+        {
+          "name": "Scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        }
+      ]
+    },
+    {
+      "id": "project-2",
+      "name": "Electric Lineman Safety System",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/OnkarS18",
+      "description": "⚡ IoT-based safety monitoring system tracking GPS, vital signs, and high voltage proximity for electric linemen using ESP32 and AWS IoT.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C++",
+          "iconifyClass": "logos-c-plusplus"
+        },
+        {
+          "name": "Arduino",
+          "iconifyClass": "simple-icons:arduino"
+        },
+        {
+          "name": "IoT",
+          "iconifyClass": "simple-icons:thingspeak"
+        }
+      ]
+    },
+    {
+      "id": "project-3",
+      "name": "Early Chronic Kidney Disease Prediction",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/OnkarS18",
+      "description": "🏥 Healthcare ML model analyzing clinical data to predict early-stage CKD using SVM, Logistic Regression, and Decision Trees.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass": "simple-icons:pandas"
+        }
+      ]
+    },
+    {
+      "id": "project-4",
+      "name": "Air Quality Impact on Health Prediction",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/OnkarS18",
+      "description": "🌍 Environmental ML project correlating air quality metrics with health outcomes using regression and time series analysis.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Machine Learning",
+          "iconifyClass": "simple-icons:tensorflow"
+        }
+      ]
+    },
+    {
+      "id": "project-5",
+      "name": "Climate Change Impact on Agriculture",
+      "createdAt": "2024-01-01T00:00:00Z",
+      "url": "https://github.com/OnkarS18",
+      "description": "🌾 AgriTech ML model predicting crop yield based on climate variables using Random Forest and Deep Learning for informed farming decisions.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Keras",
+          "iconifyClass": "simple-icons:keras"
+        }
+      ]
+    }
+  ]
+}
